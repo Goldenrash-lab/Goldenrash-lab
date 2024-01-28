@@ -1,14 +1,15 @@
-
 <h1 align="center"> 🏠 Hello👋, my name is 🔝Yehor Hryhortsev💻</h1>
 
 ### A Front-End Developer dedicated to creating smooth and captivating user interactions. 💥 Always advancing skills and delving into the dynamic realm of web development. 💻💪 Eager to team up, add value, and thrive in the tech sphere.
 
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236effe2&lines=The+best+Front+end+developer🤩)](https://git.io/typing-svg)
 
+<br>
 
+### 🔨 My Tech Skills
 
-### 🔨 Skills
- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -26,18 +27,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/><br>
 
-<br><br><br>
-
-## 📰 Social links
- - [Linkedin](https://www.linkedin.com/in/goldenrash/)
- - [Telegram](https://t.me/Goldenrash)
-<br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 ## 👾 GitHub widgets
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goldenrash-lab&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goldenrash-lab&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
+
+## 📰 Social links
+
+- [My CV](https://drive.google.com/file/d/1fDxCfVNif6Hpj9Gek8IXo2IJX5kDhcok/view?usp=sharing)
+- [My Linkedin](https://www.linkedin.com/in/goldenrash/)
+- [My Telegram](https://t.me/Goldenrash)
