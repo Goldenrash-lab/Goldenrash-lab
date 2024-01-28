@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hello👋, my name is 🔝Yehor Hryhortsev💻</p>
+<p align="center"> 🏠 Hello👋, my name is 🔝Yehor Hryhortsev💻</p>
 
 ### A Front-End Developer dedicated to creating smooth and captivating user interactions. 💥 Always advancing skills and delving into the dynamic realm of web development. 💻💪 Eager to team up, add value, and thrive in the tech sphere.
 
@@ -33,7 +33,7 @@
 ## 📰 Social links
  - [Linkedin](https://www.linkedin.com/in/goldenrash/)
  - [Telegram](https://t.me/Goldenrash)
-
+<br><br><br>
 
 ## 👾 GitHub widgets
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goldenrash-lab&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
