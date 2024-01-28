@@ -1,5 +1,5 @@
 
-<p align="center"> 🏠 Hello👋, my name is 🔝Yehor Hryhortsev💻</p>
+<h1 align="center"> 🏠 Hello👋, my name is 🔝Yehor Hryhortsev💻</h1>
 
 ### A Front-End Developer dedicated to creating smooth and captivating user interactions. 💥 Always advancing skills and delving into the dynamic realm of web development. 💻💪 Eager to team up, add value, and thrive in the tech sphere.
 
@@ -37,3 +37,7 @@
 
 ## 👾 GitHub widgets
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goldenrash-lab&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
