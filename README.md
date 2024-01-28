@@ -4,9 +4,9 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236effe2&lines=The+best+Front+end+developer🤩+Who+is+looking+for+his+dream+job🌈)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233ba892&lines=The+best+Front+end+developer🤩+Who+is+looking+for+his+dream+job🌈)
 <br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236effe2&lines=Who+is+looking+for+his+dream+job🌈)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233ba892&lines=Who+is+looking+for+his+dream+job🌈)
 
 ### 🔨 My Tech Skills
 
@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/><br>
-
+<br><br>
 ## 👾 GitHub widgets
 
 <br>
