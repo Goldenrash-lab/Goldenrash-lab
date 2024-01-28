@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233ba892&lines=The+best+Front+end+developer🤩+Who+is+looking+for+his+dream+job🌈)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233ba892&lines=The+best+Front+end+developer🤩)
 <br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233ba892&lines=Who+is+looking+for+his+dream+job🌈)
 
