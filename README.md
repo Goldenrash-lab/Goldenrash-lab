@@ -38,6 +38,6 @@
 
 ## 📰 Social links
 
-- [My CV](https://drive.google.com/file/d/1fDxCfVNif6Hpj9Gek8IXo2IJX5kDhcok/view?usp=sharing)
+- [My CV](https://drive.google.com/file/d/1XUKdBoyNiOp1VwKf63o6azkVVVIhhkpC/view?usp=drivesdk)
 - [My Linkedin](https://www.linkedin.com/in/goldenrash/)
 - [My Telegram](https://t.me/Goldenrash)
